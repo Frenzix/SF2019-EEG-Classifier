@@ -21,5 +21,5 @@ python Scripts1/Vectormodel.py #for vector model
 ```
 python3 -m venv env #optional virual environment
 cd env
-python Scripts/model.py #for vector model
+python Scripts/model.py #for image model
 ```
